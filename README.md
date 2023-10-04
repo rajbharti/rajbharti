@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Raj Kumar Bharti</h1>  
-<h3 align="center">A passionate Full Stack Developer from India</h3>  
+<h3 align="center">A passionate Full Stack Web Developer from India</h3>  
   
 ## Connect with me
 
