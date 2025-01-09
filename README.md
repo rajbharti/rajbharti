@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Raj Kumar Bharti</h1>  
 <h3 align="center">A passionate Full Stack Engineer from India</h3>
 
-![](./readme-images/social-header-banner.png)
+![](./readme-images/social-header-banner-2024-01-09.png)
 
 ## Connect with me
 
